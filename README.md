@@ -14,6 +14,9 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 6.	Multimeter	---	1
 
 **THEORY:**
+<img width="884" height="652" alt="image" src="https://github.com/user-attachments/assets/13941de0-faa8-43a6-9b02-38b6b22fa2e3" />
+<img width="840" height="824" alt="image" src="https://github.com/user-attachments/assets/cf683328-5085-418d-81c3-64b6cfa90dc8" />
+
 
 **NORTON’S THEOREM:**
 
@@ -25,6 +28,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="767" height="1280" alt="image" src="https://github.com/user-attachments/assets/4c54e065-faa5-4cd9-840c-f32f8f27fff5" />
 
 
 **To measure RTh or RN**
@@ -35,9 +39,11 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
  
 **Thevenin’s equivalent circuit**
+<img width="752" height="1280" alt="image" src="https://github.com/user-attachments/assets/f7591697-6018-4c0e-b4fc-3233edde6d6a" />
 
 
 **Norton’s equivalent circuit**
+<img width="763" height="1280" alt="image" src="https://github.com/user-attachments/assets/52da29e2-c860-491c-bfbb-6af5248084d3" />
 
 
 **PROCEDURE:**
